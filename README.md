@@ -11,7 +11,7 @@ A production-grade, enterprise-level RAG system built with **LangGraph**, **Port
 - **Gemini Embeddings**: Google `gemini-embedding-2-preview` (3072-dim) via `langchain-google-genai`.
 - **Local Document Parsing**: PDF, HTML, TXT, DOCX, PPTX parsed entirely on-device — no external OCR service.
 - **Observability**: Full trace nesting with **Pydantic Logfire** and **LangSmith** across every agent node.
-- **Evaluation Suite**: RAGAS-powered eval pipeline (6 metrics) with a dedicated Streamlit demo app.
+- **Evaluation Suite**: RAGAS-powered eval pipeline
 
 ---
 
